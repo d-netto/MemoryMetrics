@@ -1,0 +1,4 @@
+name = "MemoryMetrics"
+uuid = "3a6ab8f3-6eb6-4858-8366-4b98321f2151"
+authors = ["ubuntu "]
+version = "0.1.0"
